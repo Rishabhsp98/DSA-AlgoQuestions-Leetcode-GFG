@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<String> buildArray(int[] target, int n) {
         List<String> ans = new ArrayList<>();
